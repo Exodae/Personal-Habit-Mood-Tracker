@@ -21,5 +21,5 @@ It demonstrates SQL database design, sample data, and queries for insights into 
 3. Run queries from `queries.sql` to explore insights  
 
 ## Author
-**Chen Love (Akira)**  
-UX / Data Analytics Enthusiast
+**Chen Love**  
+UX / Data Analytics 
